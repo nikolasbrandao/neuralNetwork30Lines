@@ -1,0 +1,21 @@
+{
+  "name": "neuralnetwork30lines",
+  "version": "1.0.0",
+  "description": "Aplicação da criação de rede neural com JavaScript baseado em artigo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "JavaScript",
+    "Synaptic.js"
+  ],
+  "author": "Per Harald Borgen - Nikolas Brandao",
+  "license": "ISC",
+  "dependencies": {
+    "synaptic": "^1.1.3"
+  }
+}
